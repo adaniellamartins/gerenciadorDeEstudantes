@@ -12,8 +12,3 @@ O sistema permite o gerenciamento básico de estudantes por meio de um **menu in
 
 ## 🎯 Objetivo
 Praticar manipulação de coleções de dados em JavaScript e desenvolver habilidades essenciais para o **back-end**, como validação de dados, cálculos estatísticos e geração de relatórios.
-
-## ⚙️ Tecnologias
-- **JavaScript (Node.js)**
-- **readline** (para interação no terminal)
----
