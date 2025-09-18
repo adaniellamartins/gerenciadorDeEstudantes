@@ -1,6 +1,6 @@
 # 📚 Gerenciador de Estudantes
 
-Este projeto é um **mini sistema em Node.js** desenvolvido para treinar o uso de **arrays e objetos em JavaScript**, além da aplicação de **métodos funcionais de array** como `map`, `filter`, `find` e `reduce`.
+Este projeto é um **mini sistema em JavaScript/Node.js** desenvolvido para praticar a utilização de **arrays e objetos em JavaScript**, além da aplicação de **métodos funcionais de array** como `map`, `filter`, `find` e `reduce`.
 
 O sistema permite o gerenciamento básico de estudantes por meio de um **menu interativo no terminal**, oferecendo funcionalidades como:
 
@@ -16,20 +16,4 @@ Praticar manipulação de coleções de dados em JavaScript e desenvolver habili
 ## ⚙️ Tecnologias
 - **JavaScript (Node.js)**
 - **readline** (para interação no terminal)
-
-## ▶️ Como executar
-1. Clone este repositório
-2. Instale o Node.js (se ainda não tiver instalado)
-3. Execute no terminal:
-
-```bash
-node gerenciadorDeEstudantes_02.js
-```
-
-ou
-
-```bash
-node gerenciadorDeEstudantes_iniciante.js
-```
-
 ---
